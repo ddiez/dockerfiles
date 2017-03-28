@@ -1,2 +1,3 @@
-# dockerfiles
-Recipes for building docker images with tools I use
+# dockertools
+
+Tools to help building docker images.
